@@ -21,11 +21,11 @@ group :production do
 	gem 'pg'
 end
 
-gem 'turbolinks'
+#gem 'turbolinks'
 
-https://github.com/rails/jbuilder
-gem 'jbuilder', '~> 2.0'
+#https://github.com/rails/jbuilder
+#gem 'jbuilder', '~> 2.0'
 
-gem 'sdoc', '~> 0.4.0',          group: :doc
+#gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
